@@ -1,4 +1,4 @@
-[My Roadmap in High Definition: https://miguelgargallo.github.io/my-roadmap/](https://miguelgargallo.github.io/my-roadmap/)
+![My Roadmap](image.png)
 
 ![Miguel Gargallo Developments](https://user-images.githubusercontent.com/5947268/235550300-0a9ce972-0cb8-4bc7-b63a-2560c1c329ea.png)
 
