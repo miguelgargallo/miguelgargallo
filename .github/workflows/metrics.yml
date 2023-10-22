@@ -27,7 +27,7 @@ jobs:
           # Options
           user: miguelgargallo
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: Europe/Berlin
           plugin_habits: yes
           plugin_habits_charts_type: classic
