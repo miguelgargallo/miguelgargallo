@@ -25,6 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          user: miguelgargallo
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
@@ -45,7 +46,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: java, ruby, Go
-          plugin_languages_indepth: yes
           plugin_languages_limit: 5
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
@@ -65,8 +65,3 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
           plugin_repositories_pinned: 6
           plugin_repositories_starred: 6
-          plugin_starlists: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
