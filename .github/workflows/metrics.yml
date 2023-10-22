@@ -39,15 +39,16 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_aliases: javascript:js, typescript:ts, python:py, csharp:cs, rust:rs, swift:swift, cpp:cpp, svelte:svelte, tsx:tsx
+          plugin_languages_analysis_timeout: 0
+          plugin_languages_analysis_timeout_repositories: 0
+          plugin_languages_colors: javascript:#F7DF1E, typescript:#3178C6, python:#007396, csharp:#178600, rust:#000000, swift:#FA7343, cpp:#00599C, svelte:#FF3E00, tsx:#61DAFB
+          plugin_languages_details: percentage
           plugin_languages_ignored: java, ruby, Go, html, css, mdx, md, txt
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 40
-          plugin_languages_recent_load: 2000
+          plugin_languages_other: yes
+          plugin_languages_recent_days: 0
+          plugin_languages_recent_load: 0
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
