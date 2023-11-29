@@ -4,9 +4,9 @@
 
 - [From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer](#from-php-to-tauri-my-1-year-journey-as-a-full-stack-developer)
   - [Introduction](#introduction)
+    - [Timeline and Technologies](#timeline-and-technologies)
   - [My own License](#my-own-license)
 - [Pylar AI Software Licenses Summary](#pylar-ai-software-licenses-summary)
-    - [Timeline and Technologies](#timeline-and-technologies)
     - [Key Milestones](#key-milestones)
   - [Looking Ahead](#looking-ahead)
     - [Connect with Me](#connect-with-me)
@@ -17,33 +17,6 @@
 ## Introduction
 
 Are you curious about the latest advancements in frontend and backend development? Join me on my journey from HTML and CSS to the cutting-edge technologies like Tauri, Svelte, and Rust. Discover how I pushed the limits of web development over the past year!
-
-## My own License
-
-During 2021 & 2022 I was working to write a new [License](LICENSE.md) for my projects, and I finally did it. I'm using it in all my projects, and I'm very happy with it. I hope you like it too.
-
-# Pylar AI Software Licenses Summary
-
-| Feature                          | Original | Free  | Restrictive |
-| -------------------------------- | :------: | :---: | :---------: |
-| **Usage for Education/Research** |    ✅     |   ✅   |      ✅      |
-| **Commercial Use Prohibited**    |    ✅     |   ❌   |      ✅      |
-| **Redistribution Prohibited**    |    ✅     |   ❌   |      ✅      |
-| **Modification Allowed**         |    ❌     |   ✅   |      ❌      |
-| **Acknowledgment of Author**     |    ❌     |   ✅   |      ❌      |
-| **Non-Commercial Use Only**      |    ✅     |   ❌   |      ✅      |
-| **Self-Hosting Prohibited**      |    ✅     |   ❌   |      ✅      |
-| **Intellectual Property Rights** |    ✅     |   ✅   |      ✅      |
-| **Warranty Disclaimer**          |    ✅     |   ✅   |      ✅      |
-| **Source Code Access**           |    ❌     |   ✅   |      ❌      |
-| **Visualizing Outputs Allowed**  |    ❌     |   ❌   |      ✅      |
-| **Feedback on Outputs Allowed**  |    ❌     |   ❌   |      ✅      |
-
-Legend:
-✅ - Allowed/Included
-❌ - Prohibited/Not Included
-
-
 
 
 ### Timeline and Technologies
@@ -61,11 +34,39 @@ Legend:
 | Mar - Nov 2023 | ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logo=SvelteKit&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)                                                                                                                                                                                                                           |
 
 
+
+## My own License
+
+During 2021 & 2022 I was working to write a new [License](LICENSE.md) for my projects, and I finally did it. I'm using it in all my projects, and I'm very happy with it. I hope you like it too.
+
+# Pylar AI Software Licenses Summary
+
+| Feature                          | [Original](https://huggingface.co/spaces/superdatas/LICENSE) | [Free](https://huggingface.co/spaces/superdatas/free-license) | [Restrictive](https://huggingface.co/spaces/superdatas/License-Restrictive) |
+| -------------------------------- | :----------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| **Usage for Education/Research** |                              ✅                               |                               ✅                               |                                      ✅                                      |
+| **Commercial Use Prohibited**    |                              ✅                               |                               ❌                               |                                      ✅                                      |
+| **Redistribution Prohibited**    |                              ✅                               |                               ❌                               |                                      ✅                                      |
+| **Modification Allowed**         |                              ❌                               |                               ✅                               |                                      ❌                                      |
+| **Acknowledgment of Author**     |                              ❌                               |                               ✅                               |                                      ❌                                      |
+| **Non-Commercial Use Only**      |                              ✅                               |                               ❌                               |                                      ✅                                      |
+| **Self-Hosting Prohibited**      |                              ✅                               |                               ❌                               |                                      ✅                                      |
+| **Intellectual Property Rights** |                              ✅                               |                               ✅                               |                                      ✅                                      |
+| **Warranty Disclaimer**          |                              ✅                               |                               ✅                               |                                      ✅                                      |
+| **Source Code Access**           |                              ❌                               |                               ✅                               |                                      ❌                                      |
+| **Visualizing Outputs Allowed**  |                              ❌                               |                               ❌                               |                                      ✅                                      |
+| **Feedback on Outputs Allowed**  |                              ❌                               |                               ❌                               |                                      ✅                                      |
+
+Legend:
+✅ - Allowed/Included
+❌ - Prohibited/Not Included
+
+
 ### Key Milestones
 
 - **Embracing New Technologies**: Transitioned from traditional web technologies to modern frameworks like Tauri and Svelte.
 - **Backend Evolution**: Moved from PHP to Rust, ensuring robust and secure backend solutions.
 - **Frontend Development**: Leveraged the power of Svelte and Astro for dynamic and efficient UIs.
+- **My own Licenses**: Created 3 licenses for my projects, and I'm using them in all my projects.
 
 
 ## Looking Ahead
