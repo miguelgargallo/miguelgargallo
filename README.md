@@ -1,5 +1,6 @@
 # From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer
 
+[![GitHub license](https://img.shields.io/github/license/miguelgargallo/miguelgargallo.github.io?style=for-the-badge)](
 - [From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer](#from-php-to-tauri-my-1-year-journey-as-a-full-stack-developer)
   - [Introduction](#introduction)
     - [Timeline and Technologies](#timeline-and-technologies)
@@ -10,11 +11,13 @@
   - [The article](#the-article)
   - [License](#license)
 
+
 ## Introduction
+
 Are you curious about the latest advancements in frontend and backend development? Join me on my journey from HTML and CSS to the cutting-edge technologies like Tauri, Svelte, and Rust. Discover how I pushed the limits of web development over the past year!
 
-### Timeline and Technologies
 
+### Timeline and Technologies
 
 | Month          | Technologies Used                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,20 +33,28 @@ Are you curious about the latest advancements in frontend and backend developmen
 
 
 ### Key Milestones
+
 - **Embracing New Technologies**: Transitioned from traditional web technologies to modern frameworks like Tauri and Svelte.
 - **Backend Evolution**: Moved from PHP to Rust, ensuring robust and secure backend solutions.
 - **Frontend Development**: Leveraged the power of Svelte and Astro for dynamic and efficient UIs.
 
+
 ## Looking Ahead
+
 As we approach 2024, my focus remains on SvelteKit and TypeScript for frontend and exploring custom Rust-based frameworks for backend development. The journey continues!
 
+
 ### Connect with Me
+
 - [LinkedIn](#)
 - [GitHub](#)
 - [My Portfolio](#)
 
+
 ### Acknowledgments
+
 A special thanks to all the open-source communities and developers who have contributed to my growth as a developer.
+
 
 ---
 
@@ -65,7 +76,11 @@ In October 2022, I made a big leap by exploring Deno as a backend solution and u
 
 By December 2022, I had transitioned to using Tauri as my backend solution, and I continued to work with it into the new year. In January 2023, I upgraded to using Asto as my frontend framework, and I was able to use TailwindCSS and Svelte to create dynamic user interfaces.
 
-As I write this article at the end of January, I am now using Astro 2.0 February, as my frontend framework, and I have added Rust to my list of programming languages. I am also hosting my projects on a combination of Vercel and AWS servers.
+![Image from miguelgargallo.com roadmap article: "From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer"TailwindCSS's utility-first approach found consistent favor, while the CSS landscape saw diversification with the occasional use of pure CSS and other frameworks.](first.png)
+
+Image from miguelgargallo.com roadmap article: "From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer"TailwindCSS's utility-first approach found consistent favor, while the CSS landscape saw diversification with the occasional use of pure CSS and other frameworks.
+
+_As I write this article at the end of January, I am now using Astro 2.0 February, as my frontend framework, and I have added Rust to my list of programming languages. I am also hosting my projects on a combination of Vercel and AWS servers._
 
 The integration of Svelte into my Tauri projects has added a new level of complexity and excitement to my development work. Svelte is a reactive and efficient framework that allows for fast and dynamic user interfaces. It has been a great addition to my toolset, and I have been able to create highly interactive and responsive applications with it.
 
@@ -85,10 +100,8 @@ On the backend, Node.js continued its reign. With its nimble nature and vast npm
 
 A Look Back: The Evolution of Frontend (2022–2023): As we trace back through 2023, we observe a dynamic landscape. Earlier in the year, Astro made waves, offering developers the promise of faster web performance. However, as the months progressed, the shift towards SvelteKit was evident. This transition wasn't abrupt but was a testament to SvelteKit's efficiency and developer-friendly approach.
 
-![Image from miguelgargallo.com roadmap article: "From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer"TailwindCSS's utility-first approach found consistent favor, while the CSS landscape saw diversification with the occasional use of pure CSS and other frameworks.](first.png)
-Image from miguelgargallo.com roadmap article: "From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer"TailwindCSS's utility-first approach found consistent favor, while the CSS landscape saw diversification with the occasional use of pure CSS and other frameworks.
-
 ![Miguel Gargallo's roadmap Mar 2022 to Nov 2023](second.png)
+
 Miguel Gargallo's roadmap Mar 2022 to Nov 2023
 
 Backend Retrospective (2022–2023): The backend story has been equally, if not more, riveting. From the initial days of React (NextJS) and the experimentation with Deno, the journey has been about finding the optimal balance between performance and ease of use. The year saw a gradual transition to Tauri, offering a blend of Rust's power and Svelte's simplicity. Vite, with its blazing-fast build tool reputation, made a mark too. The database landscape saw a shift from MariaDB and MySQL to PostgreSQL, signaling the search for more advanced features and scalability.
