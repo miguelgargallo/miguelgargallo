@@ -5,6 +5,7 @@
 - [From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer](#from-php-to-tauri-my-1-year-journey-as-a-full-stack-developer)
   - [Introduction](#introduction)
   - [My own License](#my-own-license)
+- [Pylar AI Software Licenses Summary](#pylar-ai-software-licenses-summary)
     - [Timeline and Technologies](#timeline-and-technologies)
     - [Key Milestones](#key-milestones)
   - [Looking Ahead](#looking-ahead)
@@ -21,22 +22,27 @@ Are you curious about the latest advancements in frontend and backend developmen
 
 During 2021 & 2022 I was working to write a new [License](LICENSE.md) for my projects, and I finally did it. I'm using it in all my projects, and I'm very happy with it. I hope you like it too.
 
-| Feature / License                         | Pylar AI Creative ML License (v0.0.5)    | Pylar AI Creative ML Free License                     | Pylar AI Creative ML Restrictive License (v1.0) |
-| ----------------------------------------- | ---------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- |
-| **Use Permission**                        | Educational, research, personal learning | Educational, research, personal learning              | Educational, informative purposes               |
-| **Prohibited Actions**                    | Profit making, redistribution            |                                                       | Commercial use, Redistribution, Modifying code  |
-| **Intellectual Property**                 | Owned by Miguel Gargallo or suppliers    | Owned by Miguel Gargallo                              | Owned by licensor                               |
-| **Commercial Use**                        | Prohibited                               |                                                       | Prohibited                                      |
-| **Self-Hosting**                          | Prohibited                               |                                                       | Prohibited                                      |
-| **Disclaimer of Warranty**                | Provided "as is", no warranties          | Provided "as is", no warranties                       | Provided "as is", no warranties                 |
-| **Redistribution and Use Limitations**    | Not allowed without permission           | Shall include acknowledgment of authorship            | Not allowed without permission                  |
-| **Visualizing and Educative Purpose**     |                                          |                                                       | Allowed                                         |
-| **Responsibilities and Liabilities**      | No liability for damages                 | No liability for damages                              | No liability for damages                        |
-| **Version and Date**                      | 0.0.5, 27th June 2023                    | 2023                                                  | 1.0, May 2023                                   |
-| **Official Reference / More Information** |                                          | https://huggingface.co/spaces/superdatas/free-license |                                                 |
+# Pylar AI Software Licenses Summary
 
+| Feature                          | Original | Free  | Restrictive |
+| -------------------------------- | :------: | :---: | :---------: |
+| **Usage for Education/Research** |    ✅     |   ✅   |      ✅      |
+| **Commercial Use Prohibited**    |    ✅     |   ❌   |      ✅      |
+| **Redistribution Prohibited**    |    ✅     |   ❌   |      ✅      |
+| **Modification Allowed**         |    ❌     |   ✅   |      ❌      |
+| **Acknowledgment of Author**     |    ❌     |   ✅   |      ❌      |
+| **Non-Commercial Use Only**      |    ✅     |   ❌   |      ✅      |
+| **Self-Hosting Prohibited**      |    ✅     |   ❌   |      ✅      |
+| **Intellectual Property Rights** |    ✅     |   ✅   |      ✅      |
+| **Warranty Disclaimer**          |    ✅     |   ✅   |      ✅      |
+| **Source Code Access**           |    ❌     |   ✅   |      ❌      |
+| **Visualizing Outputs Allowed**  |    ❌     |   ❌   |      ✅      |
+| **Feedback on Outputs Allowed**  |    ❌     |   ❌   |      ✅      |
 
-There are 3 modalitys of my license:
+Legend:
+✅ - Allowed/Included
+❌ - Prohibited/Not Included
+
 
 
 
