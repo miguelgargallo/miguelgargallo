@@ -1,6 +1,5 @@
 # From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer
 
-[![GitHub license](https://img.shields.io/github/license/miguelgargallo/miguelgargallo.github.io?style=for-the-badge)](
 - [From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer](#from-php-to-tauri-my-1-year-journey-as-a-full-stack-developer)
   - [Introduction](#introduction)
     - [Timeline and Technologies](#timeline-and-technologies)
