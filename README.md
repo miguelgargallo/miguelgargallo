@@ -7,17 +7,17 @@ Are you curious about the latest advancements in frontend and backend developmen
 
 ## Timeline and Technologies
 
-| Month          | Technologies                           | Frontend/Backend |
-| -------------- | -------------------------------------- | ---------------- |
-| Mar 2022       | HTML, CSS, PHP                         | Frontend/Backend |
-| Apr 2022       | MariaDB, Github Pages                  | Backend          |
-| May 2022       | PostgreSQL, JavaScript                 | Backend          |
-| Jun - Sep 2022 | React, TailwindCSS, Prisma, TypeScript | Frontend/Backend |
-| Oct 2022       | Deno, SurrealDB                        | Backend          |
-| Dec 2022       | Tauri, Svelte, Rust                    | Backend          |
-| Jan 2023       | Astro 2.0, TailwindCSS, Svelte         | Frontend         |
-| Feb 2023       | Vercel, AWS                            | Hosting          |
-| Mar - Nov 2023 | SvelteKit, TypeScript, Node.js         | Frontend/Backend |
+| Month          | Technologies                           | Frontend/Backend    |
+| -------------- | -------------------------------------- | ------------------- |
+| Mar 2022       | HTML, CSS, PHP                         | FullStack           |
+| Apr 2022       | MariaDB, Github Pages                  | Backend             |
+| May 2022       | PostgreSQL, JavaScript                 | Backend             |
+| Jun - Sep 2022 | React, TailwindCSS, Prisma, TypeScript | FullStack           |
+| Oct 2022       | Deno, SurrealDB                        | FullStack           |
+| Dec 2022       | Tauri, Svelte, Rust                    | FullStack           |
+| Jan 2023       | Astro 2.0, TailwindCSS, Svelte         | FullStack           |
+| Feb 2023       | Vercel, AWS                            | Servers & FullStack |
+| Mar - Nov 2023 | SvelteKit, TypeScript, Node.js         | FullStack           |
 
 ## Key Milestones
 - **Embracing New Technologies**: Transitioned from traditional web technologies to modern frameworks like Tauri and Svelte.
