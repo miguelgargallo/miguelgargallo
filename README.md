@@ -1,6 +1,13 @@
-![My Roadmap](./assets/roadmap.png)
-
 # From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer
+
+- [From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer](#from-php-to-tauri-my-1-year-journey-as-a-full-stack-developer)
+  - [Introduction](#introduction)
+  - [Timeline and Technologies](#timeline-and-technologies)
+  - [Key Milestones](#key-milestones)
+  - [Looking Ahead](#looking-ahead)
+  - [Connect with Me](#connect-with-me)
+  - [Acknowledgments](#acknowledgments)
+  - [The article](#the-article)
 
 ## Introduction
 Are you curious about the latest advancements in frontend and backend development? Join me on my journey from HTML and CSS to the cutting-edge technologies like Tauri, Svelte, and Rust. Discover how I pushed the limits of web development over the past year!
@@ -8,17 +15,17 @@ Are you curious about the latest advancements in frontend and backend developmen
 ## Timeline and Technologies
 
 
-| Month      | Technologies Used                                                                                                                                                                          |
-|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mar 2022   | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| Apr 2022   | ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)                                                                                   |
-| May 2022   | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                |
+| Month          | Technologies Used                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mar 2022       | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)                                                                                                                                                    |
+| Apr 2022       | ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)                                                                                                                                                                                                                                                                                                                                             |
+| May 2022       | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                                                                                                                                                                                                                 |
 | Jun - Sep 2022 | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| Oct 2022   | ![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno&logoColor=white) ![SurrealDB](https://img.shields.io/badge/-SurrealDB-5C5C5C?style=for-the-badge&logo=SurrealDB&logoColor=white)                                    |
-| Dec 2022   | ![Tauri](https://img.shields.io/badge/-Tauri-FF3E00?style=for-the-badge&logo=Tauri&logoColor=white)                                                                                       |
-| Jan 2023   | ![Astro](https://img.shields.io/badge/-Astro-FF5C5C?style=for-the-badge&logo=Astro&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)                                         |
-| Feb 2023   | ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)                                                                                            |
-| Mar - Nov 2023 | ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logo=SvelteKit&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| Oct 2022       | ![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno&logoColor=white) ![SurrealDB](https://img.shields.io/badge/-SurrealDB-5C5C5C?style=for-the-badge&logo=SurrealDB&logoColor=white)                                                                                                                                                                                                                                      |
+| Dec 2022       | ![Tauri](https://img.shields.io/badge/-Tauri-FF3E00?style=for-the-badge&logo=Tauri&logoColor=white)                                                                                                                                                                                                                                                                                                                                                   |
+| Jan 2023       | ![Astro](https://img.shields.io/badge/-Astro-FF5C5C?style=for-the-badge&logo=Astro&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)                                                                                                                                                                                                                                            |
+| Feb 2023       | ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)                                                                                                                                                                                                                                                                                                                                                      |
+| Mar - Nov 2023 | ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logo=SvelteKit&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)                                                                                                                                                                                                                           |
 
 
 ## Key Milestones
@@ -28,6 +35,22 @@ Are you curious about the latest advancements in frontend and backend developmen
 
 ## Looking Ahead
 As we approach 2024, my focus remains on SvelteKit and TypeScript for frontend and exploring custom Rust-based frameworks for backend development. The journey continues!
+
+## Connect with Me
+- [LinkedIn](#)
+- [GitHub](#)
+- [My Portfolio](#)
+
+## Acknowledgments
+A special thanks to all the open-source communities and developers who have contributed to my growth as a developer.
+
+---
+
+_My journey is a testament to continuous learning and adapting in the ever-evolving world of web development._
+
+
+![Metrics](https://beta-metrics.lecoq.io/miguelgargallo?template=classic&base.repositories=0&isocalendar=1&languages=1&lines=1&habits=1&notable=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=java%2C%20ruby%2C%20Go%2C%20html%2C%20css%2C%20mdx%2C%20md%2C%20txt&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=0&languages.analysis.timeout.repositories=0&languages.recent.load=0&languages.recent.days=0&lines=false&lines.sections=base&lines.repositories.limit=10&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.pinned=0&repositories.starred=6&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&notable=false&notable.filter=stars%3A%3E9&notable.from=user&notable.repositories=true&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Europe%2FBerlin)
+
 
 ## The article
 
@@ -72,18 +95,3 @@ Backend Retrospective (2022–2023): The backend story has been equally, if not 
 Looking Ahead: The 2024 Forecast: As we approach December 2023 and look towards 2024, the current trajectory suggests an unwavering commitment to SvelteKit and TypeScript for frontend development. The backend, while currently dominated by Node.js, shows signs of evolution. The latter half of 2024 might witness the rise of a custom Rust-based backend framework. This would signify a move towards more performance-centric, type-safe backend solutions, harnessing the power of Rust.
 
 The development cosmos is ever-evolving. The past year's journey, from Astro to SvelteKit and from React (NextJS) to Node.js, encapsulates the industry's restless pursuit of excellence. As we gear up for 2024, one thing is certain: The voyage of discovery is far from over, and the best is yet to come.
-
-## Connect with Me
-- [LinkedIn](#)
-- [GitHub](#)
-- [My Portfolio](#)
-
-## Acknowledgments
-A special thanks to all the open-source communities and developers who have contributed to my growth as a developer.
-
----
-
-_My journey is a testament to continuous learning and adapting in the ever-evolving world of web development._
-
-
-![Metrics](https://beta-metrics.lecoq.io/miguelgargallo?template=classic&base.repositories=0&isocalendar=1&languages=1&lines=1&habits=1&notable=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=java%2C%20ruby%2C%20Go%2C%20html%2C%20css%2C%20mdx%2C%20md%2C%20txt&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=0&languages.analysis.timeout.repositories=0&languages.recent.load=0&languages.recent.days=0&lines=false&lines.sections=base&lines.repositories.limit=10&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.pinned=0&repositories.starred=6&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&notable=false&notable.filter=stars%3A%3E9&notable.from=user&notable.repositories=true&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Europe%2FBerlin)
