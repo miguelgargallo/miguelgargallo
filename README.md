@@ -76,7 +76,7 @@ In October 2022, I made a big leap by exploring Deno as a backend solution and u
 
 By December 2022, I had transitioned to using Tauri as my backend solution, and I continued to work with it into the new year. In January 2023, I upgraded to using Asto as my frontend framework, and I was able to use TailwindCSS and Svelte to create dynamic user interfaces.
 
-![Image from miguelgargallo.com roadmap article: "From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer"TailwindCSS's utility-first approach found consistent favor, while the CSS landscape saw diversification with the occasional use of pure CSS and other frameworks.](first.png)
+![Image from miguelgargallo.com roadmap article: "From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer"TailwindCSS's utility-first approach found consistent favor, while the CSS landscape saw diversification with the occasional use of pure CSS and other frameworks.](assets/first.png)
 
 Image from miguelgargallo.com roadmap article: "From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer"TailwindCSS's utility-first approach found consistent favor, while the CSS landscape saw diversification with the occasional use of pure CSS and other frameworks.
 
@@ -100,7 +100,7 @@ On the backend, Node.js continued its reign. With its nimble nature and vast npm
 
 A Look Back: The Evolution of Frontend (2022–2023): As we trace back through 2023, we observe a dynamic landscape. Earlier in the year, Astro made waves, offering developers the promise of faster web performance. However, as the months progressed, the shift towards SvelteKit was evident. This transition wasn't abrupt but was a testament to SvelteKit's efficiency and developer-friendly approach.
 
-![Miguel Gargallo's roadmap Mar 2022 to Nov 2023](second.png)
+![Miguel Gargallo's roadmap Mar 2022 to Nov 2023](assets/second.png)
 
 Miguel Gargallo's roadmap Mar 2022 to Nov 2023
 
