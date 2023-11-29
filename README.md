@@ -58,11 +58,17 @@ Miguel Gargallo's roadmap Mar 2022 to Nov 2023The Rise of SvelteKit and TypeScr
 On the backend, Node.js continued its reign. With its nimble nature and vast npm ecosystem, it has offered unparalleled flexibility. PostgreSQL, with its robust features and reliability, has emerged as the preferred database, with DataGrip streamlining database operations.
 
 A Look Back: The Evolution of Frontend (2022–2023): As we trace back through 2023, we observe a dynamic landscape. Earlier in the year, Astro made waves, offering developers the promise of faster web performance. However, as the months progressed, the shift towards SvelteKit was evident. This transition wasn't abrupt but was a testament to SvelteKit's efficiency and developer-friendly approach.
+
+![Image from miguelgargallo.com roadmap article: "From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer"TailwindCSS's utility-first approach found consistent favor, while the CSS landscape saw diversification with the occasional use of pure CSS and other frameworks.](first.png)
 Image from miguelgargallo.com roadmap article: "From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer"TailwindCSS's utility-first approach found consistent favor, while the CSS landscape saw diversification with the occasional use of pure CSS and other frameworks.
+
+![Miguel Gargallo's roadmap Mar 2022 to Nov 2023](second.png)
+Miguel Gargallo's roadmap Mar 2022 to Nov 2023
 
 Backend Retrospective (2022–2023): The backend story has been equally, if not more, riveting. From the initial days of React (NextJS) and the experimentation with Deno, the journey has been about finding the optimal balance between performance and ease of use. The year saw a gradual transition to Tauri, offering a blend of Rust's power and Svelte's simplicity. Vite, with its blazing-fast build tool reputation, made a mark too. The database landscape saw a shift from MariaDB and MySQL to PostgreSQL, signaling the search for more advanced features and scalability.
 
 Looking Ahead: The 2024 Forecast: As we approach December 2023 and look towards 2024, the current trajectory suggests an unwavering commitment to SvelteKit and TypeScript for frontend development. The backend, while currently dominated by Node.js, shows signs of evolution. The latter half of 2024 might witness the rise of a custom Rust-based backend framework. This would signify a move towards more performance-centric, type-safe backend solutions, harnessing the power of Rust.
+
 The development cosmos is ever-evolving. The past year's journey, from Astro to SvelteKit and from React (NextJS) to Node.js, encapsulates the industry's restless pursuit of excellence. As we gear up for 2024, one thing is certain: The voyage of discovery is far from over, and the best is yet to come.
 
 ## Connect with Me
