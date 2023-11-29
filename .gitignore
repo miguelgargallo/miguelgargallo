@@ -1,7 +1,0 @@
-dist
-src/stats.json
-.dev.vars
-.wrangler/
-.DS_Store
-.env
-node_modules/
