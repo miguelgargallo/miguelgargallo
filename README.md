@@ -2,17 +2,18 @@
 
 - [From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer](#from-php-to-tauri-my-1-year-journey-as-a-full-stack-developer)
   - [Introduction](#introduction)
-  - [Timeline and Technologies](#timeline-and-technologies)
-  - [Key Milestones](#key-milestones)
+    - [Timeline and Technologies](#timeline-and-technologies)
+    - [Key Milestones](#key-milestones)
   - [Looking Ahead](#looking-ahead)
-  - [Connect with Me](#connect-with-me)
-  - [Acknowledgments](#acknowledgments)
+    - [Connect with Me](#connect-with-me)
+    - [Acknowledgments](#acknowledgments)
   - [The article](#the-article)
+  - [License](#license)
 
 ## Introduction
 Are you curious about the latest advancements in frontend and backend development? Join me on my journey from HTML and CSS to the cutting-edge technologies like Tauri, Svelte, and Rust. Discover how I pushed the limits of web development over the past year!
 
-## Timeline and Technologies
+### Timeline and Technologies
 
 
 | Month          | Technologies Used                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -28,7 +29,7 @@ Are you curious about the latest advancements in frontend and backend developmen
 | Mar - Nov 2023 | ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logo=SvelteKit&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)                                                                                                                                                                                                                           |
 
 
-## Key Milestones
+### Key Milestones
 - **Embracing New Technologies**: Transitioned from traditional web technologies to modern frameworks like Tauri and Svelte.
 - **Backend Evolution**: Moved from PHP to Rust, ensuring robust and secure backend solutions.
 - **Frontend Development**: Leveraged the power of Svelte and Astro for dynamic and efficient UIs.
@@ -36,12 +37,12 @@ Are you curious about the latest advancements in frontend and backend developmen
 ## Looking Ahead
 As we approach 2024, my focus remains on SvelteKit and TypeScript for frontend and exploring custom Rust-based frameworks for backend development. The journey continues!
 
-## Connect with Me
+### Connect with Me
 - [LinkedIn](#)
 - [GitHub](#)
 - [My Portfolio](#)
 
-## Acknowledgments
+### Acknowledgments
 A special thanks to all the open-source communities and developers who have contributed to my growth as a developer.
 
 ---
@@ -95,3 +96,56 @@ Backend Retrospective (2022–2023): The backend story has been equally, if not 
 Looking Ahead: The 2024 Forecast: As we approach December 2023 and look towards 2024, the current trajectory suggests an unwavering commitment to SvelteKit and TypeScript for frontend development. The backend, while currently dominated by Node.js, shows signs of evolution. The latter half of 2024 might witness the rise of a custom Rust-based backend framework. This would signify a move towards more performance-centric, type-safe backend solutions, harnessing the power of Rust.
 
 The development cosmos is ever-evolving. The past year's journey, from Astro to SvelteKit and from React (NextJS) to Node.js, encapsulates the industry's restless pursuit of excellence. As we gear up for 2024, one thing is certain: The voyage of discovery is far from over, and the best is yet to come.
+
+## License
+
+PYLAR AI CREATIVE ML RESTRICTIVE LICENSE
+
+Version 1.0, May 2023
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Pylar AI software and associated documentation files (the "Software"), to visualize and use the Software solely for educational and informative purposes, subject to the following restrictions and conditions:
+
+    Redistribution and Use Limitations:
+        The Software may not be redistributed, sublicensed, sold, or otherwise transferred to any third party without prior written permission from the licensor.
+        The Software may not be used for any commercial purposes or for any purpose other than education, research, and personal learning.
+        The end user is strictly prohibited from using any part of the Software's source code, including but not limited to copying, modifying, or creating derivative works based on the code.
+
+    No Self-Hosting:
+        The end user may not host or make the Software available to others via any means, including but not limited to local servers, cloud services, or online platforms.
+
+    Visualizing and Educative Purpose:
+        The end user is granted the right to use the Software solely for visualizing the outputs and results generated by the Software.
+        The end user may use the Software to provide marks or feedback on the visualized outputs, solely for educational and informative purposes.
+
+    Intellectual Property:
+        All intellectual property rights in the Software, including but not limited to copyrights, trademarks, and patents, shall remain the exclusive property of the licensor.
+        The end user acknowledges that this license does not grant any ownership or rights to the Software, other than the limited rights expressly stated herein.
+
+    No Warranty:
+        The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+        The licensor shall not be liable for any claim, damages, or other liability arising out of or in connection with the use or performance of the Software.
+
+By using the Software, the end user agrees to be bound by the terms and conditions of this license. If you do not agree to these terms, you are not authorized to use the Software.
+
+|                 | ✅ Se Permite                              | ❌ No Se Permite                                  |
+| --------------- | ----------------------------------------- | ------------------------------------------------ |
+|                 | Visualizar resultados educativos e        | Redistribuir, sublicenciar, vender o transferir  |
+|                 | informativos generados por el Software.   | el Software sin permiso previo por escrito del   |
+|                 |                                           | licenciante.                                     |
+|                 |                                           |                                                  |
+|                 | Utilizar el Software solo para fines      | Usar cualquier parte del código fuente,          |
+|                 | educativos, investigación y aprendizaje   | incluyendo copiar, modificar o crear trabajos    |
+|                 | personal.                                 | derivados.                                       |
+|                 |                                           |                                                  |
+|                 | Proporcionar marcas o retroalimentación   | Hospedar o hacer el Software disponible para     |
+|                 | sobre resultados visualizados con fines   | otros en servidores locales, en la nube o en     |
+|                 | educativos e informativos.                | plataformas en línea.                            |
+|                 |                                           |                                                  |
+| ❌ No Se Permite | Usar el Software con fines comerciales    | Reclamar derechos de propiedad intelectual       |
+|                 | o no educativos.                          | sobre el Software, excepto los derechos          |
+|                 |                                           | limitados expresamente indicados en la licencia. |
+|                 |                                           |                                                  |
+|                 | Responsabilizar al licenciante por        |                                                  |
+|                 | reclamos, daños u otras responsabilidades |                                                  |
+|                 | derivadas del uso o rendimiento del       |                                                  |
+|                 | Software.                                 |                                                  |
