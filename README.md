@@ -2,6 +2,8 @@
 
 ![License](assets/License.svg)
 
+![Miguel Gargallo's roadmap Mar 2022 to Nov 2023](/assets/second.png)
+
 - [From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer](#from-php-to-tauri-my-1-year-journey-as-a-full-stack-developer)
   - [Introduction](#introduction)
     - [Timeline and Technologies](#timeline-and-technologies)
