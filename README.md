@@ -1,5 +1,7 @@
 # From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer
 
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)        
+
 - [From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer](#from-php-to-tauri-my-1-year-journey-as-a-full-stack-developer)
   - [Introduction](#introduction)
     - [Timeline and Technologies](#timeline-and-technologies)
