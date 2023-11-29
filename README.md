@@ -39,6 +39,11 @@ Are you curious about the latest advancements in frontend and backend developmen
 
 During 2021 & 2022 I was working to write a new [License](LICENSE.md) for my projects, and I finally did it. I'm using it in all my projects, and I'm very happy with it. I hope you like it too.
 
+Here are the three links
+ - [Original](https://huggingface.co/spaces/superdatas/LICENSE)
+ - [Free](https://huggingface.co/spaces/superdatas/free-license)
+ - [Restrictive](https://huggingface.co/spaces/superdatas/License-Restrictive)
+
 # Pylar AI Software Licenses Summary
 
 | Feature                          | [Original](https://huggingface.co/spaces/superdatas/LICENSE) | [Free](https://huggingface.co/spaces/superdatas/free-license) | [Restrictive](https://huggingface.co/spaces/superdatas/License-Restrictive) |
