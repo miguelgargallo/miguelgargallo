@@ -2,6 +2,10 @@
 
 ![License](assets/License.svg)
 
+## Github Wrapped 2023
+Until 6 Dec 2023
+![github-wrapped (1)](https://github.com/miguelgargallo/miguelgargallo/assets/5947268/f822ddb2-e081-4aeb-b67c-5561724b3e30)
+
 ![Miguel Gargallo's roadmap Mar 2022 to Nov 2023](/assets/third.png)
 
 - [From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer](#from-php-to-tauri-my-1-year-journey-as-a-full-stack-developer)
