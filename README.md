@@ -8,44 +8,9 @@ Until 6 Dec 2023
 
 ![Miguel Gargallo's roadmap Mar 2022 to Nov 2023](/assets/third.png)
 
-- [From PHP to Tauri: My 1-Year Journey as a Full-Stack Developer](#from-php-to-tauri-my-1-year-journey-as-a-full-stack-developer)
-  - [Introduction](#introduction)
-    - [Timeline and Technologies](#timeline-and-technologies)
-  - [My own License](#my-own-license)
-- [Pylar AI Software Licenses Summary](#pylar-ai-software-licenses-summary)
-    - [Key Milestones](#key-milestones)
-  - [Looking Ahead](#looking-ahead)
-    - [Connect with Me](#connect-with-me)
-    - [Acknowledgments](#acknowledgments)
-  - [The article](#the-article)
-
-
-## Introduction
-
-Are you curious about the latest advancements in frontend and backend development? Join me on my journey from HTML and CSS to the cutting-edge technologies like Tauri, Svelte, and Rust. Discover how I pushed the limits of web development over the past year!
-
-
-### Timeline and Technologies
-
-| Month          | Technologies Used                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mar 2022       | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)                                                                                                                                                    |
-| Apr 2022       | ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)                                                                                                                                                                                                                                                                                                                                             |
-| May 2022       | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                                                                                                                                                                                                                 |
-| Jun - Sep 2022 | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| Oct 2022       | ![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno&logoColor=white) ![SurrealDB](https://img.shields.io/badge/-SurrealDB-5C5C5C?style=for-the-badge&logo=SurrealDB&logoColor=white)                                                                                                                                                                                                                                      |
-| Dec 2022       | ![Tauri](https://img.shields.io/badge/-Tauri-FF3E00?style=for-the-badge&logo=Tauri&logoColor=white)                                                                                                                                                                                                                                                                                                                                                   |
-| Jan 2023       | ![Astro](https://img.shields.io/badge/-Astro-FF5C5C?style=for-the-badge&logo=Astro&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)                                                                                                                                                                                                                                            |
-| Feb 2023       | ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)                                                                                                                                                                                                                                                                                                                                                      |
-| Mar - Nov 2023 | ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logo=SvelteKit&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)                                                                                                                                                                                                                           |
-
-
-
 
 ## My last project
 [Pylar.org, the most advanced Pylar CMS with sveltekit, tailwindcss and many more.](https://pylar.org)
-
-
 
 
 ## My own License
@@ -57,7 +22,8 @@ Here are the three links
  - [Free](https://huggingface.co/spaces/superdatas/free-license)
  - [Restrictive](https://huggingface.co/spaces/superdatas/License-Restrictive)
 
-# Pylar AI Software Licenses Summary
+
+## Pylar AI Software Licenses Summary
 
 | Feature                          | [Original](https://huggingface.co/spaces/superdatas/LICENSE) | [Free](https://huggingface.co/spaces/superdatas/free-license) | [Restrictive](https://huggingface.co/spaces/superdatas/License-Restrictive) |
 | -------------------------------- | :----------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------------------------: |
