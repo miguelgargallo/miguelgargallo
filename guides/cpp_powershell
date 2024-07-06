@@ -1,0 +1,244 @@
+Search
+    Search 11,100+ tutorials
+freeCodeCamp.org
+Forum Donate
+Learn to code — free 3,000-hour curriculum
+
+FEBRUARY 22, 2022
+/
+#C++
+How to Install C and C++ Compilers on Windows
+Md. Fahim Bin Amin
+Md. Fahim Bin Amin
+How to Install C and C++ Compilers on Windows
+If you want to run C or C++ programs in your Windows operating system, then you need to have the right compilers.
+
+The MinGW compiler is a well known and widely used software for installing GCC and G++ compilers for the C and C++ programming languages.
+
+But many devs face difficulties when installing the compiler, so I am going to show you all the steps to do so in this article with screenshots to help you get it done.
+
+I will be using Windows 11, but the same process is applicable for all other Windows operating systems unless you are using Windows XP (You need to change some steps in Windows XP).
+
+If you'd like to watch the video I made on this topic as well, here it is:
+
+
+Install MSYS2
+Firstly we need to download an executable file from MSYS2. Go to the official website of MSYS2: https://www.msys2.org/. The website looks like below as of today.
+
+Screenshot--8-
+Scroll down a little bit until you find the download button for the executable file.
+
+Screenshot--9-
+Simply click on the installer button and save the installer file in any place you want.
+
+Screenshot--10--1
+Finish downloading the executable file. It should not take much time depending on your internet speed.
+
+Screenshot--11-
+After downloading the file, we will get this executable file.
+
+Screenshot--12-
+Double click on the executable file. Then click Next.
+
+Screenshot--13-
+Keep the name as it is, and click Next.
+
+Screenshot--14--1
+Keep all this as it is, and click Next.
+
+Screenshot--15-
+Give it some time to finish the installation process.
+
+Screenshot--16-
+If you keep the checkmark, then the MSYS2 terminal will open once you click Finish.
+
+Screenshot--17-
+I prefer to do it this way, but if you want to do the remaining tasks later, then you need to open the terminal by yourself from the start menu.
+
+In that case, you have to click the start button > Search for MSYS2 and click on the terminal like in the following picture:
+
+Screenshot--26-
+Let me assume that we have opened the MSYS2 MSYS terminal successfully.
+
+Apply the command pacman -Syu to update the package database and the base packages.
+
+Screenshot--19-
+Type Y and press the enter key if you get this type of installation prompt.
+
+Screenshot--20-
+Screenshot--21-
+Screenshot--22-
+Type Y and press the enter key.
+
+Screenshot--23-
+Screenshot--24-
+The terminal will be closed. We have to open the terminal manually and update the rest of the packages.
+
+Click the start button.
+
+Screenshot--25-
+Search the folder named MSYS2 64bit. Click on the folder to expand and get the terminal. Open the terminal by clicking MSYS2 MSYS.
+
+Screenshot--26--1
+Update the rest of the packages by applying the command, pacman -Su. You might need to apply the command pacman -Sy if the terminal tells you to do that.
+
+Screenshot--27-
+If you get any installation prompt, then you need to type Y or y and press the enter key.
+
+Screenshot--28-
+Screenshot--29-
+Wait a little to finish the installation.
+
+Screenshot--30-
+Screenshot--31-
+Close the window after finishing the installation.
+
+Install the GCC and G++ Compilers
+Click the start button. Find the MSYS2 64bit folder. Click on that folder to expand it.
+
+Screenshot--32-
+If you are using a 64 bit operating system like I am, then we need to use the MSYS2 MinGW x64 terminal. Click on the terminal to open that.
+
+Screenshot--33-
+⚠️ But, if you are using a 32 bit operating system, then you have to use the MSYS2 MinGW x86 terminal. Then, you need to open that terminal.
+
+Screenshot--34-
+As I am using a 64 bit operating system, I have opened the terminal for 64 bit. Apply the command pacman -S mingw-w64-x86_64-gcc to install the compilers.
+
+⚠️ If you are using a 32 bit operating system, then you have to apply the command pacman -S mingw-w64-i686-gcc in your 32 bit terminal.
+
+Screenshot--35-
+Wait for a little while.
+
+Screenshot--36-
+Type Y or y and press the enter key if you get the installation prompts.
+
+Screenshot--37-
+Screenshot--38-
+Give it some time to finish the installation process.
+
+Screenshot--39-
+Screenshot--39--1
+You've now finished installing the compilers.
+
+How to Install the Debugger
+If you are using a 64 bit operating system like I am, then you have to apply the command pacman -S mingw-w64-x86_64-gdb.
+
+⚠️ If you are using a 32 bit operating system, then you have to apply the command pacman -S mingw-w64-i686-gdb in your 32 bit terminal.
+
+Screenshot--41-
+If you get any installation prompt, then simply type Y or y and press the enter key.
+
+Screenshot--42-
+Screenshot--38--1
+Give it some time to finish the installation.
+
+Screenshot--44-
+Screenshot--45-
+You can close the terminal.
+
+How to Add the Directory to the Path of the Environment Variables
+Open the file explorer.
+
+Screenshot--46-
+I am assuming that you have installed the MSYS into the default directory like I have. If you used custom directories, then you need to go to the directory where you installed it.
+
+Screenshot--47-
+If you are using a 64 bit operating system like I am, then go to the mingw64 folder.
+
+⚠️ If you are using a 32 bit operating system, then go to the mingw32 folder.
+
+Screenshot--48-
+We have to go to the binary folder now. Go to the bin folder.
+
+Screenshot--49-
+⚠️ If you are using a 32 bit operating system, then you have to go into your mingw32 folder > bin folder.
+
+Copy the directory.
+
+Screenshot--51-
+⚠️ If you are using a 32 bit operating system, and you also installed the MSYS2 in the default directory, then your directory should be like the following:
+
+C:\msys64\mingw32\bin
+Open the Advanced System Settings. You can do that in many ways. A simple way is to simply click the start button and search for it like the below screenshot.
+
+Screenshot--52-
+Click Environment Variables from the Advanced tab.
+
+Screenshot--54-
+Click on Path and select that. Then click Edit.
+
+Screenshot--57-
+A window will appear as below:
+
+Screenshot--58-
+Click New.
+
+Screenshot--59-
+A blank box will appear.
+
+Screenshot--60-
+Paste the directory here.
+
+Screenshot--61-
+Screenshot--62-
+Click OK.
+
+Screenshot--63-
+Click OK.
+
+Screenshot--65-
+Click OK.
+
+Screenshot--66-
+If you want to get all the steps in a video, then you can watch this video as well.
+
+Check the Install
+Now it is time to check whether we have successfully installed all of the above or not.
+
+Open the terminal / PowerShell / CMD and apply the commands serially:
+
+For checking the GCC version:
+
+gcc --version
+Screenshot--68-
+For checking the G++ version:
+
+g++ --version
+Screenshot--69-
+For checking the GDB version:
+
+gdb --version
+Screenshot--70-
+Conclusion
+I hope this article helps you install your compilers on the Windows operating system for C and C++ programs.
+
+Thanks for reading the entire article. If it helps you then you can also check out other articles of mine at freeCodeCamp.
+
+If you want to get in touch with me, then you can do so using Twitter, LinkedIn, and GitHub.
+
+You can also SUBSCRIBE to my YouTube channel (Code With FahimFBA) if you want to learn various kinds of programming languages with a lot of practical examples regularly.
+
+If you want to check out my highlights, then you can do so at my Polywork timeline.
+
+You can also visit my website to learn more about me and what I'm working on.
+
+Thanks a bunch!
+
+Md. Fahim Bin Amin
+Md. Fahim Bin Amin
+Read more posts.
+
+If you read this far, thank the author to show them you care. Say Thanks
+
+Learn to code for free. freeCodeCamp's open source curriculum has helped more than 40,000 people get jobs as developers. Get started
+
+freeCodeCamp is a donor-supported tax-exempt 501(c)(3) charity organization (United States Federal Tax Identification Number: 82-0779546)
+
+Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public.
+
+Donations to freeCodeCamp go toward our education initiatives, and help pay for servers, services, and staff.
+
+You can make a tax-deductible donation here.
+
+Trending Guides
