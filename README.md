@@ -3,8 +3,15 @@
 ![License](assets/License.svg)
 
 ## Github Wrapped 2023
-Until 6 Dec 2023
+### Until 6 Dec 2023
 ![github-wrapped (1)](https://github.com/miguelgargallo/miguelgargallo/assets/5947268/f822ddb2-e081-4aeb-b67c-5561724b3e30)
+### 2023
+Taken: 07/23/2024 10:35 pm
+![2023_miguelgargallo](https://github.com/user-attachments/assets/97c79959-5c54-4862-8a2b-013965dff0b9)
+### 2024
+Taken: 07/23/2024 10:35 pm
+![2024_miguelgargallo](https://github.com/user-attachments/assets/e520d7fa-4430-4be0-b142-86b9f3bce738)
+
 
 ![Miguel Gargallo's roadmap Mar 2022 to Nov 2023](/assets/third.png)
 
