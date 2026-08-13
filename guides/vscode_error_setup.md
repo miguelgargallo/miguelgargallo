@@ -1,3 +1,5 @@
+add(vscode):Permission Denied for Error updating or Uninstalling, Permission Deny
+
 Go to C:\Users\USERNAME\AppData\Local\Temp\vscode-stable-user-x64
 and to this folder, make sure in properties, is not read-only please, deselect this option, then use the uninstaller
 
